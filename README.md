@@ -5,5 +5,5 @@ index.html,
 ajaxme.txt
 
 
-Algorith Challenge-
+Algorithm Challenge-
 ATM
