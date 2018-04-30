@@ -1,9 +1,9 @@
 # invigourinterview
 
-JS Challenge <<endl;
-index.html
+JS Challenge-
+index.html,
 ajaxme.txt
 
 
-Algorith Challenge<< endl;
+Algorith Challenge-
 ATM
